@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: akannanspringbootapp 
-          image: myacrrepo431.azurecr.io/akannanspringbootapp
+          image: myacrreg24.azurecr.io/akannanspringbootapp
           ports:
           - containerPort: 80
